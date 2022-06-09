@@ -22,7 +22,7 @@ function App() {
               <div>
                 <h1>
                   <span className="report-text">Report for</span> <br />
-                  Jeremy Robson
+                  Jeremy Robsons
                 </h1>
               </div>
             </div>
